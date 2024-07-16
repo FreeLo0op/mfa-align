@@ -1,0 +1,96 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.76 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 5.76 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0.0 
+            xmax = 3.26 
+            text = "" 
+        intervals [2]:
+            xmin = 3.26 
+            xmax = 3.39 
+            text = "cn_da" 
+        intervals [3]:
+            xmin = 3.39 
+            xmax = 3.58 
+            text = "cn_kai" 
+        intervals [4]:
+            xmin = 3.58 
+            xmax = 3.78 
+            text = "cn_ji" 
+        intervals [5]:
+            xmin = 3.78 
+            xmax = 4.01 
+            text = "cn_shiii" 
+        intervals [6]:
+            xmin = 4.01 
+            xmax = 4.41 
+            text = "cn_qi" 
+        intervals [7]:
+            xmin = 4.41 
+            xmax = 5.76 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 5.76 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0.0 
+            xmax = 3.26 
+            text = "" 
+        intervals [2]:
+            xmin = 3.26 
+            xmax = 3.31 
+            text = "d" 
+        intervals [3]:
+            xmin = 3.31 
+            xmax = 3.39 
+            text = "a" 
+        intervals [4]:
+            xmin = 3.39 
+            xmax = 3.51 
+            text = "k" 
+        intervals [5]:
+            xmin = 3.51 
+            xmax = 3.58 
+            text = "ai" 
+        intervals [6]:
+            xmin = 3.58 
+            xmax = 3.73 
+            text = "j" 
+        intervals [7]:
+            xmin = 3.73 
+            xmax = 3.78 
+            text = "i" 
+        intervals [8]:
+            xmin = 3.78 
+            xmax = 3.91 
+            text = "sh" 
+        intervals [9]:
+            xmin = 3.91 
+            xmax = 4.01 
+            text = "iii" 
+        intervals [10]:
+            xmin = 4.01 
+            xmax = 4.22 
+            text = "q" 
+        intervals [11]:
+            xmin = 4.22 
+            xmax = 4.41 
+            text = "i" 
+        intervals [12]:
+            xmin = 4.41 
+            xmax = 5.76 
+            text = "" 

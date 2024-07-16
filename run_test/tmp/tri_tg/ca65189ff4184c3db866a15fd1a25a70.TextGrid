@@ -1,0 +1,170 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 8.28
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0
+		xmax = 8.28
+		intervals: size = 10
+			intervals [1]:
+				xmin = 0.0
+				xmax = 5.46
+				text = ""
+			intervals [2]:
+				xmin = 5.46
+				xmax = 5.55
+				text = "cn_ji4"
+			intervals [3]:
+				xmin = 5.55
+				xmax = 5.77
+				text = "cn_xv4"
+			intervals [4]:
+				xmin = 5.77
+				xmax = 5.98
+				text = "cn_xve2"
+			intervals [5]:
+				xmin = 5.98
+				xmax = 6.22
+				text = "cn_shu4"
+			intervals [6]:
+				xmin = 6.22
+				xmax = 6.37
+				text = "cn_xve2"
+			intervals [7]:
+				xmin = 6.37
+				xmax = 6.58
+				text = "cn_pei2"
+			intervals [8]:
+				xmin = 6.58
+				xmax = 6.72
+				text = "cn_iou1"
+			intervals [9]:
+				xmin = 6.72
+				xmax = 6.77
+				text = "en_a"
+			intervals [10]:
+				xmin = 6.77
+				xmax = 8.28
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0
+		xmax = 8.28
+		intervals: size = 16
+			intervals [1]:
+				xmin = 0.0
+				xmax = 5.46
+				text = ""
+			intervals [2]:
+				xmin = 5.46
+				xmax = 5.49
+				text = "j"
+			intervals [3]:
+				xmin = 5.49
+				xmax = 5.55
+				text = "i4"
+			intervals [4]:
+				xmin = 5.55
+				xmax = 5.58
+				text = "x"
+			intervals [5]:
+				xmin = 5.58
+				xmax = 5.77
+				text = "v4"
+			intervals [6]:
+				xmin = 5.77
+				xmax = 5.8
+				text = "x"
+			intervals [7]:
+				xmin = 5.8
+				xmax = 5.98
+				text = "ve2"
+			intervals [8]:
+				xmin = 5.98
+				xmax = 6.14
+				text = "sh"
+			intervals [9]:
+				xmin = 6.14
+				xmax = 6.22
+				text = "u4"
+			intervals [10]:
+				xmin = 6.22
+				xmax = 6.28
+				text = "x"
+			intervals [11]:
+				xmin = 6.28
+				xmax = 6.37
+				text = "ve2"
+			intervals [12]:
+				xmin = 6.37
+				xmax = 6.5
+				text = "p"
+			intervals [13]:
+				xmin = 6.5
+				xmax = 6.58
+				text = "ei2"
+			intervals [14]:
+				xmin = 6.58
+				xmax = 6.72
+				text = "iou1"
+			intervals [15]:
+				xmin = 6.72
+				xmax = 6.77
+				text = "AH0"
+			intervals [16]:
+				xmin = 6.77
+				xmax = 8.28
+				text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0
+		xmax = 8.28
+		intervals: size = 10
+			intervals [1]:
+				xmin = 0.0
+				xmax = 5.46
+				text = ""
+			intervals [2]:
+				xmin = 5.46
+				xmax = 5.55
+				text = "继"
+			intervals [3]:
+				xmin = 5.55
+				xmax = 5.77
+				text = "续"
+			intervals [4]:
+				xmin = 5.77
+				xmax = 5.98
+				text = "学"
+			intervals [5]:
+				xmin = 5.98
+				xmax = 6.22
+				text = "数"
+			intervals [6]:
+				xmin = 6.22
+				xmax = 6.37
+				text = "学"
+			intervals [7]:
+				xmin = 6.37
+				xmax = 6.58
+				text = "培"
+			intervals [8]:
+				xmin = 6.58
+				xmax = 6.72
+				text = "优"
+			intervals [9]:
+				xmin = 6.72
+				xmax = 6.77
+				text = "a"
+			intervals [10]:
+				xmin = 6.77
+				xmax = 8.28
+				text = ""

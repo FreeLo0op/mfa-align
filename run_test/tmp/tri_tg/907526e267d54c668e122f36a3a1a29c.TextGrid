@@ -1,0 +1,142 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.84
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0
+		xmax = 3.84
+		intervals: size = 8
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.0
+				text = ""
+			intervals [2]:
+				xmin = 1.0
+				xmax = 1.19
+				text = "cn_lin2"
+			intervals [3]:
+				xmin = 1.19
+				xmax = 1.42
+				text = "cn_dai4"
+			intervals [4]:
+				xmin = 1.42
+				xmax = 1.61
+				text = "cn_v4"
+			intervals [5]:
+				xmin = 1.61
+				xmax = 1.74
+				text = "cn_de5"
+			intervals [6]:
+				xmin = 1.74
+				xmax = 2.0
+				text = "cn_shiii2"
+			intervals [7]:
+				xmin = 2.0
+				xmax = 2.36
+				text = "cn_li4"
+			intervals [8]:
+				xmin = 2.36
+				xmax = 3.84
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0
+		xmax = 3.84
+		intervals: size = 13
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.0
+				text = ""
+			intervals [2]:
+				xmin = 1.0
+				xmax = 1.05
+				text = "l"
+			intervals [3]:
+				xmin = 1.05
+				xmax = 1.19
+				text = "in2"
+			intervals [4]:
+				xmin = 1.19
+				xmax = 1.26
+				text = "d"
+			intervals [5]:
+				xmin = 1.26
+				xmax = 1.42
+				text = "ai4"
+			intervals [6]:
+				xmin = 1.42
+				xmax = 1.61
+				text = "v4"
+			intervals [7]:
+				xmin = 1.61
+				xmax = 1.72
+				text = "d"
+			intervals [8]:
+				xmin = 1.72
+				xmax = 1.74
+				text = "e5"
+			intervals [9]:
+				xmin = 1.74
+				xmax = 1.94
+				text = "sh"
+			intervals [10]:
+				xmin = 1.94
+				xmax = 2.0
+				text = "iii2"
+			intervals [11]:
+				xmin = 2.0
+				xmax = 2.11
+				text = "l"
+			intervals [12]:
+				xmin = 2.11
+				xmax = 2.36
+				text = "i4"
+			intervals [13]:
+				xmin = 2.36
+				xmax = 3.84
+				text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0
+		xmax = 3.84
+		intervals: size = 8
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.0
+				text = ""
+			intervals [2]:
+				xmin = 1.0
+				xmax = 1.19
+				text = "林"
+			intervals [3]:
+				xmin = 1.19
+				xmax = 1.42
+				text = "黛"
+			intervals [4]:
+				xmin = 1.42
+				xmax = 1.61
+				text = "玉"
+			intervals [5]:
+				xmin = 1.61
+				xmax = 1.74
+				text = "的"
+			intervals [6]:
+				xmin = 1.74
+				xmax = 2.0
+				text = "实"
+			intervals [7]:
+				xmin = 2.0
+				xmax = 2.36
+				text = "力"
+			intervals [8]:
+				xmin = 2.36
+				xmax = 3.84
+				text = ""

@@ -1,0 +1,206 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.96
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0
+		xmax = 6.96
+		intervals: size = 13
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.93
+				text = ""
+			intervals [2]:
+				xmin = 1.93
+				xmax = 2.15
+				text = "cn_guan1"
+			intervals [3]:
+				xmin = 2.15
+				xmax = 2.53
+				text = "cn_v2"
+			intervals [4]:
+				xmin = 2.53
+				xmax = 2.7
+				text = "cn_long2"
+			intervals [5]:
+				xmin = 2.7
+				xmax = 2.8
+				text = ""
+			intervals [6]:
+				xmin = 2.8
+				xmax = 3.31
+				text = "cn_de5"
+			intervals [7]:
+				xmin = 3.31
+				xmax = 3.67
+				text = ""
+			intervals [8]:
+				xmin = 3.67
+				xmax = 4.09
+				text = "cn_sii4"
+			intervals [9]:
+				xmin = 4.09
+				xmax = 4.73
+				text = "cn_zii4"
+			intervals [10]:
+				xmin = 4.73
+				xmax = 5.0
+				text = ""
+			intervals [11]:
+				xmin = 5.0
+				xmax = 5.28
+				text = "cn_cheng2"
+			intervals [12]:
+				xmin = 5.28
+				xmax = 5.64
+				text = "cn_v3"
+			intervals [13]:
+				xmin = 5.64
+				xmax = 6.96
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0
+		xmax = 6.96
+		intervals: size = 19
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.93
+				text = ""
+			intervals [2]:
+				xmin = 1.93
+				xmax = 2.02
+				text = "g"
+			intervals [3]:
+				xmin = 2.02
+				xmax = 2.15
+				text = "uan1"
+			intervals [4]:
+				xmin = 2.15
+				xmax = 2.53
+				text = "v2"
+			intervals [5]:
+				xmin = 2.53
+				xmax = 2.63
+				text = "l"
+			intervals [6]:
+				xmin = 2.63
+				xmax = 2.7
+				text = "ong2"
+			intervals [7]:
+				xmin = 2.7
+				xmax = 2.8
+				text = ""
+			intervals [8]:
+				xmin = 2.8
+				xmax = 2.96
+				text = "d"
+			intervals [9]:
+				xmin = 2.96
+				xmax = 3.31
+				text = "e5"
+			intervals [10]:
+				xmin = 3.31
+				xmax = 3.67
+				text = ""
+			intervals [11]:
+				xmin = 3.67
+				xmax = 3.88
+				text = "s"
+			intervals [12]:
+				xmin = 3.88
+				xmax = 4.09
+				text = "ii4"
+			intervals [13]:
+				xmin = 4.09
+				xmax = 4.22
+				text = "z"
+			intervals [14]:
+				xmin = 4.22
+				xmax = 4.73
+				text = "ii4"
+			intervals [15]:
+				xmin = 4.73
+				xmax = 5.0
+				text = ""
+			intervals [16]:
+				xmin = 5.0
+				xmax = 5.14
+				text = "ch"
+			intervals [17]:
+				xmin = 5.14
+				xmax = 5.28
+				text = "eng2"
+			intervals [18]:
+				xmin = 5.28
+				xmax = 5.64
+				text = "v3"
+			intervals [19]:
+				xmin = 5.64
+				xmax = 6.96
+				text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0
+		xmax = 6.96
+		intervals: size = 13
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.93
+				text = ""
+			intervals [2]:
+				xmin = 1.93
+				xmax = 2.15
+				text = "关"
+			intervals [3]:
+				xmin = 2.15
+				xmax = 2.53
+				text = "于"
+			intervals [4]:
+				xmin = 2.53
+				xmax = 2.7
+				text = "龙"
+			intervals [5]:
+				xmin = 2.7
+				xmax = 2.8
+				text = ""
+			intervals [6]:
+				xmin = 2.8
+				xmax = 3.31
+				text = "的"
+			intervals [7]:
+				xmin = 3.31
+				xmax = 3.67
+				text = ""
+			intervals [8]:
+				xmin = 3.67
+				xmax = 4.09
+				text = "四"
+			intervals [9]:
+				xmin = 4.09
+				xmax = 4.73
+				text = "字"
+			intervals [10]:
+				xmin = 4.73
+				xmax = 5.0
+				text = ""
+			intervals [11]:
+				xmin = 5.0
+				xmax = 5.28
+				text = "成"
+			intervals [12]:
+				xmin = 5.28
+				xmax = 5.64
+				text = "语"
+			intervals [13]:
+				xmin = 5.64
+				xmax = 6.96
+				text = ""

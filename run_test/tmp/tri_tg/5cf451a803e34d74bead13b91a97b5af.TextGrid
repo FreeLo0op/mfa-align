@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.12
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0
+		xmax = 3.12
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.96
+				text = ""
+			intervals [2]:
+				xmin = 0.96
+				xmax = 1.14
+				text = "cn_bu4"
+			intervals [3]:
+				xmin = 1.14
+				xmax = 1.31
+				text = "cn_i3"
+			intervals [4]:
+				xmin = 1.31
+				xmax = 1.61
+				text = "cn_uei2"
+			intervals [5]:
+				xmin = 1.61
+				xmax = 1.96
+				text = "cn_ran2"
+			intervals [6]:
+				xmin = 1.96
+				xmax = 3.12
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0
+		xmax = 3.12
+		intervals: size = 8
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.96
+				text = ""
+			intervals [2]:
+				xmin = 0.96
+				xmax = 1.0
+				text = "b"
+			intervals [3]:
+				xmin = 1.0
+				xmax = 1.14
+				text = "u4"
+			intervals [4]:
+				xmin = 1.14
+				xmax = 1.31
+				text = "i3"
+			intervals [5]:
+				xmin = 1.31
+				xmax = 1.61
+				text = "uei2"
+			intervals [6]:
+				xmin = 1.61
+				xmax = 1.72
+				text = "r"
+			intervals [7]:
+				xmin = 1.72
+				xmax = 1.96
+				text = "an2"
+			intervals [8]:
+				xmin = 1.96
+				xmax = 3.12
+				text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0
+		xmax = 3.12
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.96
+				text = ""
+			intervals [2]:
+				xmin = 0.96
+				xmax = 1.14
+				text = "不"
+			intervals [3]:
+				xmin = 1.14
+				xmax = 1.31
+				text = "以"
+			intervals [4]:
+				xmin = 1.31
+				xmax = 1.61
+				text = "为"
+			intervals [5]:
+				xmin = 1.61
+				xmax = 1.96
+				text = "然"
+			intervals [6]:
+				xmin = 1.96
+				xmax = 3.12
+				text = ""

@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.72
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0
+		xmax = 3.72
+		intervals: size = 7
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.57
+				text = ""
+			intervals [2]:
+				xmin = 0.57
+				xmax = 1.25
+				text = "cn_luo2"
+			intervals [3]:
+				xmin = 1.25
+				xmax = 1.73
+				text = "cn_hao4"
+			intervals [4]:
+				xmin = 1.73
+				xmax = 1.95
+				text = "cn_zen3"
+			intervals [5]:
+				xmin = 1.95
+				xmax = 2.16
+				text = "cn_me5"
+			intervals [6]:
+				xmin = 2.16
+				xmax = 2.62
+				text = "cn_xie3"
+			intervals [7]:
+				xmin = 2.62
+				xmax = 3.72
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0
+		xmax = 3.72
+		intervals: size = 12
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.57
+				text = ""
+			intervals [2]:
+				xmin = 0.57
+				xmax = 0.76
+				text = "l"
+			intervals [3]:
+				xmin = 0.76
+				xmax = 1.25
+				text = "uo2"
+			intervals [4]:
+				xmin = 1.25
+				xmax = 1.39
+				text = "h"
+			intervals [5]:
+				xmin = 1.39
+				xmax = 1.73
+				text = "ao4"
+			intervals [6]:
+				xmin = 1.73
+				xmax = 1.86
+				text = "z"
+			intervals [7]:
+				xmin = 1.86
+				xmax = 1.95
+				text = "en3"
+			intervals [8]:
+				xmin = 1.95
+				xmax = 2.06
+				text = "m"
+			intervals [9]:
+				xmin = 2.06
+				xmax = 2.16
+				text = "e5"
+			intervals [10]:
+				xmin = 2.16
+				xmax = 2.33
+				text = "x"
+			intervals [11]:
+				xmin = 2.33
+				xmax = 2.62
+				text = "ie3"
+			intervals [12]:
+				xmin = 2.62
+				xmax = 3.72
+				text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0
+		xmax = 3.72
+		intervals: size = 7
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.57
+				text = ""
+			intervals [2]:
+				xmin = 0.57
+				xmax = 1.25
+				text = "螺"
+			intervals [3]:
+				xmin = 1.25
+				xmax = 1.73
+				text = "号"
+			intervals [4]:
+				xmin = 1.73
+				xmax = 1.95
+				text = "怎"
+			intervals [5]:
+				xmin = 1.95
+				xmax = 2.16
+				text = "么"
+			intervals [6]:
+				xmin = 2.16
+				xmax = 2.62
+				text = "写"
+			intervals [7]:
+				xmin = 2.62
+				xmax = 3.72
+				text = ""

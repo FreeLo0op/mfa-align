@@ -1,0 +1,96 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.2 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 4.2 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0.0 
+            xmax = 1.22 
+            text = "" 
+        intervals [2]:
+            xmin = 1.22 
+            xmax = 1.46 
+            text = "cn_da" 
+        intervals [3]:
+            xmin = 1.46 
+            xmax = 1.92 
+            text = "cn_kai" 
+        intervals [4]:
+            xmin = 1.92 
+            xmax = 2.26 
+            text = "cn_xiao" 
+        intervals [5]:
+            xmin = 2.26 
+            xmax = 2.7 
+            text = "cn_ian" 
+        intervals [6]:
+            xmin = 2.7 
+            xmax = 2.94 
+            text = "cn_zii" 
+        intervals [7]:
+            xmin = 2.94 
+            xmax = 4.2 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 4.2 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0.0 
+            xmax = 1.22 
+            text = "" 
+        intervals [2]:
+            xmin = 1.22 
+            xmax = 1.27 
+            text = "d" 
+        intervals [3]:
+            xmin = 1.27 
+            xmax = 1.46 
+            text = "a" 
+        intervals [4]:
+            xmin = 1.46 
+            xmax = 1.75 
+            text = "k" 
+        intervals [5]:
+            xmin = 1.75 
+            xmax = 1.92 
+            text = "ai" 
+        intervals [6]:
+            xmin = 1.92 
+            xmax = 2.09 
+            text = "x" 
+        intervals [7]:
+            xmin = 2.09 
+            xmax = 2.26 
+            text = "iao" 
+        intervals [8]:
+            xmin = 2.26 
+            xmax = 2.38 
+            text = "y" 
+        intervals [9]:
+            xmin = 2.38 
+            xmax = 2.7 
+            text = "ian" 
+        intervals [10]:
+            xmin = 2.7 
+            xmax = 2.8 
+            text = "z" 
+        intervals [11]:
+            xmin = 2.8 
+            xmax = 2.94 
+            text = "ii" 
+        intervals [12]:
+            xmin = 2.94 
+            xmax = 4.2 
+            text = "" 

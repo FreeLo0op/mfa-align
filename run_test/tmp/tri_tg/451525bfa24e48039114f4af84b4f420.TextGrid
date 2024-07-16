@@ -1,0 +1,286 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.36
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0
+		xmax = 6.36
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.27
+				text = ""
+			intervals [2]:
+				xmin = 0.27
+				xmax = 0.42
+				text = "cn_xiao3"
+			intervals [3]:
+				xmin = 0.42
+				xmax = 0.57
+				text = "cn_sii1"
+			intervals [4]:
+				xmin = 0.57
+				xmax = 0.82
+				text = "cn_xiao3"
+			intervals [5]:
+				xmin = 0.82
+				xmax = 1.21
+				text = "cn_sii1"
+			intervals [6]:
+				xmin = 1.21
+				xmax = 2.64
+				text = ""
+			intervals [7]:
+				xmin = 2.64
+				xmax = 2.86
+				text = "cn_shiii4"
+			intervals [8]:
+				xmin = 2.86
+				xmax = 3.1
+				text = "cn_jie4"
+			intervals [9]:
+				xmin = 3.1
+				xmax = 3.4
+				text = "cn_shang4"
+			intervals [10]:
+				xmin = 3.4
+				xmax = 3.58
+				text = "cn_zuei4"
+			intervals [11]:
+				xmin = 3.58
+				xmax = 3.83
+				text = "cn_gao1"
+			intervals [12]:
+				xmin = 3.83
+				xmax = 3.97
+				text = "cn_de5"
+			intervals [13]:
+				xmin = 3.97
+				xmax = 4.36
+				text = "cn_shan1"
+			intervals [14]:
+				xmin = 4.36
+				xmax = 4.52
+				text = "cn_zai4"
+			intervals [15]:
+				xmin = 4.52
+				xmax = 4.8
+				text = "cn_na2"
+			intervals [16]:
+				xmin = 4.8
+				xmax = 5.02
+				text = "cn_li3"
+			intervals [17]:
+				xmin = 5.02
+				xmax = 6.36
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0
+		xmax = 6.36
+		intervals: size = 31
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.27
+				text = ""
+			intervals [2]:
+				xmin = 0.27
+				xmax = 0.3
+				text = "x"
+			intervals [3]:
+				xmin = 0.3
+				xmax = 0.42
+				text = "iao3"
+			intervals [4]:
+				xmin = 0.42
+				xmax = 0.45
+				text = "s"
+			intervals [5]:
+				xmin = 0.45
+				xmax = 0.57
+				text = "ii1"
+			intervals [6]:
+				xmin = 0.57
+				xmax = 0.64
+				text = "x"
+			intervals [7]:
+				xmin = 0.64
+				xmax = 0.82
+				text = "iao3"
+			intervals [8]:
+				xmin = 0.82
+				xmax = 0.98
+				text = "s"
+			intervals [9]:
+				xmin = 0.98
+				xmax = 1.21
+				text = "ii1"
+			intervals [10]:
+				xmin = 1.21
+				xmax = 2.64
+				text = ""
+			intervals [11]:
+				xmin = 2.64
+				xmax = 2.76
+				text = "sh"
+			intervals [12]:
+				xmin = 2.76
+				xmax = 2.86
+				text = "iii4"
+			intervals [13]:
+				xmin = 2.86
+				xmax = 2.95
+				text = "j"
+			intervals [14]:
+				xmin = 2.95
+				xmax = 3.1
+				text = "ie4"
+			intervals [15]:
+				xmin = 3.1
+				xmax = 3.19
+				text = "sh"
+			intervals [16]:
+				xmin = 3.19
+				xmax = 3.4
+				text = "ang4"
+			intervals [17]:
+				xmin = 3.4
+				xmax = 3.49
+				text = "z"
+			intervals [18]:
+				xmin = 3.49
+				xmax = 3.58
+				text = "uei4"
+			intervals [19]:
+				xmin = 3.58
+				xmax = 3.69
+				text = "g"
+			intervals [20]:
+				xmin = 3.69
+				xmax = 3.83
+				text = "ao1"
+			intervals [21]:
+				xmin = 3.83
+				xmax = 3.95
+				text = "d"
+			intervals [22]:
+				xmin = 3.95
+				xmax = 3.97
+				text = "e5"
+			intervals [23]:
+				xmin = 3.97
+				xmax = 4.15
+				text = "sh"
+			intervals [24]:
+				xmin = 4.15
+				xmax = 4.36
+				text = "an1"
+			intervals [25]:
+				xmin = 4.36
+				xmax = 4.41
+				text = "z"
+			intervals [26]:
+				xmin = 4.41
+				xmax = 4.52
+				text = "ai4"
+			intervals [27]:
+				xmin = 4.52
+				xmax = 4.6
+				text = "n"
+			intervals [28]:
+				xmin = 4.6
+				xmax = 4.8
+				text = "a2"
+			intervals [29]:
+				xmin = 4.8
+				xmax = 4.86
+				text = "l"
+			intervals [30]:
+				xmin = 4.86
+				xmax = 5.02
+				text = "i3"
+			intervals [31]:
+				xmin = 5.02
+				xmax = 6.36
+				text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0
+		xmax = 6.36
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.27
+				text = ""
+			intervals [2]:
+				xmin = 0.27
+				xmax = 0.42
+				text = "小"
+			intervals [3]:
+				xmin = 0.42
+				xmax = 0.57
+				text = "思"
+			intervals [4]:
+				xmin = 0.57
+				xmax = 0.82
+				text = "小"
+			intervals [5]:
+				xmin = 0.82
+				xmax = 1.21
+				text = "思"
+			intervals [6]:
+				xmin = 1.21
+				xmax = 2.64
+				text = ""
+			intervals [7]:
+				xmin = 2.64
+				xmax = 2.86
+				text = "世"
+			intervals [8]:
+				xmin = 2.86
+				xmax = 3.1
+				text = "界"
+			intervals [9]:
+				xmin = 3.1
+				xmax = 3.4
+				text = "上"
+			intervals [10]:
+				xmin = 3.4
+				xmax = 3.58
+				text = "最"
+			intervals [11]:
+				xmin = 3.58
+				xmax = 3.83
+				text = "高"
+			intervals [12]:
+				xmin = 3.83
+				xmax = 3.97
+				text = "的"
+			intervals [13]:
+				xmin = 3.97
+				xmax = 4.36
+				text = "山"
+			intervals [14]:
+				xmin = 4.36
+				xmax = 4.52
+				text = "在"
+			intervals [15]:
+				xmin = 4.52
+				xmax = 4.8
+				text = "哪"
+			intervals [16]:
+				xmin = 4.8
+				xmax = 5.02
+				text = "里"
+			intervals [17]:
+				xmin = 5.02
+				xmax = 6.36
+				text = ""

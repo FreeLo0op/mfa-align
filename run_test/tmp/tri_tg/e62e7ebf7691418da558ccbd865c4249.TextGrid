@@ -1,0 +1,246 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 8.16
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0
+		xmax = 8.16
+		intervals: size = 16
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.85
+				text = ""
+			intervals [2]:
+				xmin = 0.85
+				xmax = 0.9
+				text = "cn_ia3"
+			intervals [3]:
+				xmin = 0.9
+				xmax = 2.7
+				text = ""
+			intervals [4]:
+				xmin = 2.7
+				xmax = 3.05
+				text = "cn_ba5"
+			intervals [5]:
+				xmin = 3.05
+				xmax = 3.13
+				text = ""
+			intervals [6]:
+				xmin = 3.13
+				xmax = 3.55
+				text = "cn_da2"
+			intervals [7]:
+				xmin = 3.55
+				xmax = 4.79
+				text = ""
+			intervals [8]:
+				xmin = 4.79
+				xmax = 5.11
+				text = "cn_shou3"
+			intervals [9]:
+				xmin = 5.11
+				xmax = 5.4
+				text = "cn_shiii4"
+			intervals [10]:
+				xmin = 5.4
+				xmax = 5.47
+				text = ""
+			intervals [11]:
+				xmin = 5.47
+				xmax = 5.63
+				text = "cn_na3"
+			intervals [12]:
+				xmin = 5.63
+				xmax = 5.68
+				text = "cn_i4"
+			intervals [13]:
+				xmin = 5.68
+				xmax = 5.86
+				text = "cn_zhong3"
+			intervals [14]:
+				xmin = 5.86
+				xmax = 6.36
+				text = "cn_cheng2"
+			intervals [15]:
+				xmin = 6.36
+				xmax = 6.72
+				text = "cn_v3"
+			intervals [16]:
+				xmin = 6.72
+				xmax = 8.16
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0
+		xmax = 8.16
+		intervals: size = 23
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.85
+				text = ""
+			intervals [2]:
+				xmin = 0.85
+				xmax = 0.9
+				text = "ia3"
+			intervals [3]:
+				xmin = 0.9
+				xmax = 2.7
+				text = ""
+			intervals [4]:
+				xmin = 2.7
+				xmax = 2.75
+				text = "b"
+			intervals [5]:
+				xmin = 2.75
+				xmax = 3.05
+				text = "a5"
+			intervals [6]:
+				xmin = 3.05
+				xmax = 3.13
+				text = ""
+			intervals [7]:
+				xmin = 3.13
+				xmax = 3.17
+				text = "d"
+			intervals [8]:
+				xmin = 3.17
+				xmax = 3.55
+				text = "a2"
+			intervals [9]:
+				xmin = 3.55
+				xmax = 4.79
+				text = ""
+			intervals [10]:
+				xmin = 4.79
+				xmax = 4.96
+				text = "sh"
+			intervals [11]:
+				xmin = 4.96
+				xmax = 5.11
+				text = "ou3"
+			intervals [12]:
+				xmin = 5.11
+				xmax = 5.3
+				text = "sh"
+			intervals [13]:
+				xmin = 5.3
+				xmax = 5.4
+				text = "iii4"
+			intervals [14]:
+				xmin = 5.4
+				xmax = 5.47
+				text = ""
+			intervals [15]:
+				xmin = 5.47
+				xmax = 5.5
+				text = "n"
+			intervals [16]:
+				xmin = 5.5
+				xmax = 5.63
+				text = "a3"
+			intervals [17]:
+				xmin = 5.63
+				xmax = 5.68
+				text = "i4"
+			intervals [18]:
+				xmin = 5.68
+				xmax = 5.78
+				text = "zh"
+			intervals [19]:
+				xmin = 5.78
+				xmax = 5.86
+				text = "ong3"
+			intervals [20]:
+				xmin = 5.86
+				xmax = 6.08
+				text = "ch"
+			intervals [21]:
+				xmin = 6.08
+				xmax = 6.36
+				text = "eng2"
+			intervals [22]:
+				xmin = 6.36
+				xmax = 6.72
+				text = "v3"
+			intervals [23]:
+				xmin = 6.72
+				xmax = 8.16
+				text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0
+		xmax = 8.16
+		intervals: size = 16
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.85
+				text = ""
+			intervals [2]:
+				xmin = 0.85
+				xmax = 0.9
+				text = "哑"
+			intervals [3]:
+				xmin = 0.9
+				xmax = 2.7
+				text = ""
+			intervals [4]:
+				xmin = 2.7
+				xmax = 3.05
+				text = "巴"
+			intervals [5]:
+				xmin = 3.05
+				xmax = 3.13
+				text = ""
+			intervals [6]:
+				xmin = 3.13
+				xmax = 3.55
+				text = "打"
+			intervals [7]:
+				xmin = 3.55
+				xmax = 4.79
+				text = ""
+			intervals [8]:
+				xmin = 4.79
+				xmax = 5.11
+				text = "手"
+			intervals [9]:
+				xmin = 5.11
+				xmax = 5.4
+				text = "是"
+			intervals [10]:
+				xmin = 5.4
+				xmax = 5.47
+				text = ""
+			intervals [11]:
+				xmin = 5.47
+				xmax = 5.63
+				text = "哪"
+			intervals [12]:
+				xmin = 5.63
+				xmax = 5.68
+				text = "一"
+			intervals [13]:
+				xmin = 5.68
+				xmax = 5.86
+				text = "种"
+			intervals [14]:
+				xmin = 5.86
+				xmax = 6.36
+				text = "成"
+			intervals [15]:
+				xmin = 6.36
+				xmax = 6.72
+				text = "语"
+			intervals [16]:
+				xmin = 6.72
+				xmax = 8.16
+				text = ""

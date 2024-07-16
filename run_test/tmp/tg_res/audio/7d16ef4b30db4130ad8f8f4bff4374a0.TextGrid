@@ -1,0 +1,116 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.08 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 4.08 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0.0 
+            xmax = 0.25 
+            text = "" 
+        intervals [2]:
+            xmin = 0.25 
+            xmax = 0.38 
+            text = "cn_xiao" 
+        intervals [3]:
+            xmin = 0.38 
+            xmax = 0.53 
+            text = "cn_sii" 
+        intervals [4]:
+            xmin = 0.53 
+            xmax = 0.65 
+            text = "cn_xiao" 
+        intervals [5]:
+            xmin = 0.65 
+            xmax = 1.01 
+            text = "cn_sii" 
+        intervals [6]:
+            xmin = 1.01 
+            xmax = 2.03 
+            text = "" 
+        intervals [7]:
+            xmin = 2.03 
+            xmax = 2.31 
+            text = "cn_xi" 
+        intervals [8]:
+            xmin = 2.31 
+            xmax = 2.62 
+            text = "cn_ren" 
+        intervals [9]:
+            xmin = 2.62 
+            xmax = 4.08 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 4.08 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0.0 
+            xmax = 0.25 
+            text = "" 
+        intervals [2]:
+            xmin = 0.25 
+            xmax = 0.29 
+            text = "x" 
+        intervals [3]:
+            xmin = 0.29 
+            xmax = 0.38 
+            text = "iao" 
+        intervals [4]:
+            xmin = 0.38 
+            xmax = 0.45 
+            text = "s" 
+        intervals [5]:
+            xmin = 0.45 
+            xmax = 0.53 
+            text = "ii" 
+        intervals [6]:
+            xmin = 0.53 
+            xmax = 0.56 
+            text = "x" 
+        intervals [7]:
+            xmin = 0.56 
+            xmax = 0.65 
+            text = "iao" 
+        intervals [8]:
+            xmin = 0.65 
+            xmax = 0.73 
+            text = "s" 
+        intervals [9]:
+            xmin = 0.73 
+            xmax = 1.01 
+            text = "ii" 
+        intervals [10]:
+            xmin = 1.01 
+            xmax = 2.03 
+            text = "" 
+        intervals [11]:
+            xmin = 2.03 
+            xmax = 2.18 
+            text = "x" 
+        intervals [12]:
+            xmin = 2.18 
+            xmax = 2.31 
+            text = "i" 
+        intervals [13]:
+            xmin = 2.31 
+            xmax = 2.37 
+            text = "r" 
+        intervals [14]:
+            xmin = 2.37 
+            xmax = 2.62 
+            text = "en" 
+        intervals [15]:
+            xmin = 2.62 
+            xmax = 4.08 
+            text = "" 

@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.4
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0
+		xmax = 5.4
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 2.26
+				text = ""
+			intervals [2]:
+				xmin = 2.26
+				xmax = 2.51
+				text = "cn_ti4"
+			intervals [3]:
+				xmin = 2.51
+				xmax = 2.76
+				text = "cn_huan4"
+			intervals [4]:
+				xmin = 2.76
+				xmax = 3.06
+				text = "cn_shang1"
+			intervals [5]:
+				xmin = 3.06
+				xmax = 3.35
+				text = "cn_pin3"
+			intervals [6]:
+				xmin = 3.35
+				xmax = 5.4
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0
+		xmax = 5.4
+		intervals: size = 10
+			intervals [1]:
+				xmin = 0.0
+				xmax = 2.26
+				text = ""
+			intervals [2]:
+				xmin = 2.26
+				xmax = 2.43
+				text = "t"
+			intervals [3]:
+				xmin = 2.43
+				xmax = 2.51
+				text = "i4"
+			intervals [4]:
+				xmin = 2.51
+				xmax = 2.6
+				text = "h"
+			intervals [5]:
+				xmin = 2.6
+				xmax = 2.76
+				text = "uan4"
+			intervals [6]:
+				xmin = 2.76
+				xmax = 2.89
+				text = "sh"
+			intervals [7]:
+				xmin = 2.89
+				xmax = 3.06
+				text = "ang1"
+			intervals [8]:
+				xmin = 3.06
+				xmax = 3.23
+				text = "p"
+			intervals [9]:
+				xmin = 3.23
+				xmax = 3.35
+				text = "in3"
+			intervals [10]:
+				xmin = 3.35
+				xmax = 5.4
+				text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0
+		xmax = 5.4
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 2.26
+				text = ""
+			intervals [2]:
+				xmin = 2.26
+				xmax = 2.51
+				text = "替"
+			intervals [3]:
+				xmin = 2.51
+				xmax = 2.76
+				text = "换"
+			intervals [4]:
+				xmin = 2.76
+				xmax = 3.06
+				text = "商"
+			intervals [5]:
+				xmin = 3.06
+				xmax = 3.35
+				text = "品"
+			intervals [6]:
+				xmin = 3.35
+				xmax = 5.4
+				text = ""

@@ -1,0 +1,138 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.0
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0
+		xmax = 6.0
+		intervals: size = 8
+			intervals [1]:
+				xmin = 0.0
+				xmax = 3.43
+				text = ""
+			intervals [2]:
+				xmin = 3.43
+				xmax = 3.62
+				text = "cn_da3"
+			intervals [3]:
+				xmin = 3.62
+				xmax = 3.84
+				text = "cn_kai1"
+			intervals [4]:
+				xmin = 3.84
+				xmax = 4.23
+				text = "cn_ing4"
+			intervals [5]:
+				xmin = 4.23
+				xmax = 4.33
+				text = "cn_iong4"
+			intervals [6]:
+				xmin = 4.33
+				xmax = 4.57
+				text = "cn_shang1"
+			intervals [7]:
+				xmin = 4.57
+				xmax = 4.97
+				text = "cn_chang3"
+			intervals [8]:
+				xmin = 4.97
+				xmax = 6.0
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0
+		xmax = 6.0
+		intervals: size = 12
+			intervals [1]:
+				xmin = 0.0
+				xmax = 3.43
+				text = ""
+			intervals [2]:
+				xmin = 3.43
+				xmax = 3.47
+				text = "d"
+			intervals [3]:
+				xmin = 3.47
+				xmax = 3.62
+				text = "a3"
+			intervals [4]:
+				xmin = 3.62
+				xmax = 3.75
+				text = "k"
+			intervals [5]:
+				xmin = 3.75
+				xmax = 3.84
+				text = "ai1"
+			intervals [6]:
+				xmin = 3.84
+				xmax = 4.23
+				text = "ing4"
+			intervals [7]:
+				xmin = 4.23
+				xmax = 4.33
+				text = "iong4"
+			intervals [8]:
+				xmin = 4.33
+				xmax = 4.42
+				text = "sh"
+			intervals [9]:
+				xmin = 4.42
+				xmax = 4.57
+				text = "ang1"
+			intervals [10]:
+				xmin = 4.57
+				xmax = 4.65
+				text = "ch"
+			intervals [11]:
+				xmin = 4.65
+				xmax = 4.97
+				text = "ang3"
+			intervals [12]:
+				xmin = 4.97
+				xmax = 6.0
+				text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0
+		xmax = 6.0
+		intervals: size = 8
+			intervals [1]:
+				xmin = 0.0
+				xmax = 3.43
+				text = ""
+			intervals [2]:
+				xmin = 3.43
+				xmax = 3.62
+				text = "打"
+			intervals [3]:
+				xmin = 3.62
+				xmax = 3.84
+				text = "开"
+			intervals [4]:
+				xmin = 3.84
+				xmax = 4.23
+				text = "应"
+			intervals [5]:
+				xmin = 4.23
+				xmax = 4.33
+				text = "用"
+			intervals [6]:
+				xmin = 4.33
+				xmax = 4.57
+				text = "商"
+			intervals [7]:
+				xmin = 4.57
+				xmax = 4.97
+				text = "场"
+			intervals [8]:
+				xmin = 4.97
+				xmax = 6.0
+				text = ""

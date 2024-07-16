@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.64
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0
+		xmax = 5.64
+		intervals: size = 7
+			intervals [1]:
+				xmin = 0.0
+				xmax = 2.65
+				text = ""
+			intervals [2]:
+				xmin = 2.65
+				xmax = 2.78
+				text = "cn_xian4"
+			intervals [3]:
+				xmin = 2.78
+				xmax = 2.97
+				text = "cn_zai4"
+			intervals [4]:
+				xmin = 2.97
+				xmax = 3.39
+				text = "cn_ji2"
+			intervals [5]:
+				xmin = 3.39
+				xmax = 3.67
+				text = "cn_dian3"
+			intervals [6]:
+				xmin = 3.67
+				xmax = 4.02
+				text = "cn_le5"
+			intervals [7]:
+				xmin = 4.02
+				xmax = 5.64
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0
+		xmax = 5.64
+		intervals: size = 12
+			intervals [1]:
+				xmin = 0.0
+				xmax = 2.65
+				text = ""
+			intervals [2]:
+				xmin = 2.65
+				xmax = 2.7
+				text = "x"
+			intervals [3]:
+				xmin = 2.7
+				xmax = 2.78
+				text = "ian4"
+			intervals [4]:
+				xmin = 2.78
+				xmax = 2.87
+				text = "z"
+			intervals [5]:
+				xmin = 2.87
+				xmax = 2.97
+				text = "ai4"
+			intervals [6]:
+				xmin = 2.97
+				xmax = 3.27
+				text = "j"
+			intervals [7]:
+				xmin = 3.27
+				xmax = 3.39
+				text = "i2"
+			intervals [8]:
+				xmin = 3.39
+				xmax = 3.49
+				text = "d"
+			intervals [9]:
+				xmin = 3.49
+				xmax = 3.67
+				text = "ian3"
+			intervals [10]:
+				xmin = 3.67
+				xmax = 3.97
+				text = "l"
+			intervals [11]:
+				xmin = 3.97
+				xmax = 4.02
+				text = "e5"
+			intervals [12]:
+				xmin = 4.02
+				xmax = 5.64
+				text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0
+		xmax = 5.64
+		intervals: size = 7
+			intervals [1]:
+				xmin = 0.0
+				xmax = 2.65
+				text = ""
+			intervals [2]:
+				xmin = 2.65
+				xmax = 2.78
+				text = "现"
+			intervals [3]:
+				xmin = 2.78
+				xmax = 2.97
+				text = "在"
+			intervals [4]:
+				xmin = 2.97
+				xmax = 3.39
+				text = "几"
+			intervals [5]:
+				xmin = 3.39
+				xmax = 3.67
+				text = "点"
+			intervals [6]:
+				xmin = 3.67
+				xmax = 4.02
+				text = "了"
+			intervals [7]:
+				xmin = 4.02
+				xmax = 5.64
+				text = ""

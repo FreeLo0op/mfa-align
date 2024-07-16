@@ -1,0 +1,142 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.28
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0
+		xmax = 5.28
+		intervals: size = 8
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.29
+				text = ""
+			intervals [2]:
+				xmin = 1.29
+				xmax = 1.41
+				text = "cn_da3"
+			intervals [3]:
+				xmin = 1.41
+				xmax = 1.6
+				text = "cn_kai1"
+			intervals [4]:
+				xmin = 1.6
+				xmax = 1.78
+				text = "cn_zhiii3"
+			intervals [5]:
+				xmin = 1.78
+				xmax = 2.0
+				text = "cn_jian1"
+			intervals [6]:
+				xmin = 2.0
+				xmax = 2.21
+				text = "cn_fan1"
+			intervals [7]:
+				xmin = 2.21
+				xmax = 2.46
+				text = "cn_i4"
+			intervals [8]:
+				xmin = 2.46
+				xmax = 5.28
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0
+		xmax = 5.28
+		intervals: size = 13
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.29
+				text = ""
+			intervals [2]:
+				xmin = 1.29
+				xmax = 1.33
+				text = "d"
+			intervals [3]:
+				xmin = 1.33
+				xmax = 1.41
+				text = "a3"
+			intervals [4]:
+				xmin = 1.41
+				xmax = 1.48
+				text = "k"
+			intervals [5]:
+				xmin = 1.48
+				xmax = 1.6
+				text = "ai1"
+			intervals [6]:
+				xmin = 1.6
+				xmax = 1.71
+				text = "zh"
+			intervals [7]:
+				xmin = 1.71
+				xmax = 1.78
+				text = "iii3"
+			intervals [8]:
+				xmin = 1.78
+				xmax = 1.84
+				text = "j"
+			intervals [9]:
+				xmin = 1.84
+				xmax = 2.0
+				text = "ian1"
+			intervals [10]:
+				xmin = 2.0
+				xmax = 2.08
+				text = "f"
+			intervals [11]:
+				xmin = 2.08
+				xmax = 2.21
+				text = "an1"
+			intervals [12]:
+				xmin = 2.21
+				xmax = 2.46
+				text = "i4"
+			intervals [13]:
+				xmin = 2.46
+				xmax = 5.28
+				text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0
+		xmax = 5.28
+		intervals: size = 8
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.29
+				text = ""
+			intervals [2]:
+				xmin = 1.29
+				xmax = 1.41
+				text = "打"
+			intervals [3]:
+				xmin = 1.41
+				xmax = 1.6
+				text = "开"
+			intervals [4]:
+				xmin = 1.6
+				xmax = 1.78
+				text = "指"
+			intervals [5]:
+				xmin = 1.78
+				xmax = 2.0
+				text = "尖"
+			intervals [6]:
+				xmin = 2.0
+				xmax = 2.21
+				text = "翻"
+			intervals [7]:
+				xmin = 2.21
+				xmax = 2.46
+				text = "译"
+			intervals [8]:
+				xmin = 2.46
+				xmax = 5.28
+				text = ""

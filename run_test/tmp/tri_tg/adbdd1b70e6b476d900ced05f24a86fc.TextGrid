@@ -1,0 +1,174 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.68
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0
+		xmax = 4.68
+		intervals: size = 10
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.15
+				text = ""
+			intervals [2]:
+				xmin = 1.15
+				xmax = 1.45
+				text = "cn_tian1"
+			intervals [3]:
+				xmin = 1.45
+				xmax = 1.73
+				text = "cn_zha2"
+			intervals [4]:
+				xmin = 1.73
+				xmax = 2.08
+				text = "cn_jian4"
+			intervals [5]:
+				xmin = 2.08
+				xmax = 2.51
+				text = ""
+			intervals [6]:
+				xmin = 2.51
+				xmax = 2.82
+				text = "cn_suan4"
+			intervals [7]:
+				xmin = 2.82
+				xmax = 3.03
+				text = "cn_li4"
+			intervals [8]:
+				xmin = 3.03
+				xmax = 3.24
+				text = "cn_hai5"
+			intervals [9]:
+				xmin = 3.24
+				xmax = 3.42
+				text = "cn_ma5"
+			intervals [10]:
+				xmin = 3.42
+				xmax = 4.68
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0
+		xmax = 4.68
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.15
+				text = ""
+			intervals [2]:
+				xmin = 1.15
+				xmax = 1.2
+				text = "t"
+			intervals [3]:
+				xmin = 1.2
+				xmax = 1.45
+				text = "ian1"
+			intervals [4]:
+				xmin = 1.45
+				xmax = 1.53
+				text = "zh"
+			intervals [5]:
+				xmin = 1.53
+				xmax = 1.73
+				text = "a2"
+			intervals [6]:
+				xmin = 1.73
+				xmax = 1.84
+				text = "j"
+			intervals [7]:
+				xmin = 1.84
+				xmax = 2.08
+				text = "ian4"
+			intervals [8]:
+				xmin = 2.08
+				xmax = 2.51
+				text = ""
+			intervals [9]:
+				xmin = 2.51
+				xmax = 2.68
+				text = "s"
+			intervals [10]:
+				xmin = 2.68
+				xmax = 2.82
+				text = "uan4"
+			intervals [11]:
+				xmin = 2.82
+				xmax = 2.9
+				text = "l"
+			intervals [12]:
+				xmin = 2.9
+				xmax = 3.03
+				text = "i4"
+			intervals [13]:
+				xmin = 3.03
+				xmax = 3.12
+				text = "h"
+			intervals [14]:
+				xmin = 3.12
+				xmax = 3.24
+				text = "ai5"
+			intervals [15]:
+				xmin = 3.24
+				xmax = 3.28
+				text = "m"
+			intervals [16]:
+				xmin = 3.28
+				xmax = 3.42
+				text = "a5"
+			intervals [17]:
+				xmin = 3.42
+				xmax = 4.68
+				text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0
+		xmax = 4.68
+		intervals: size = 10
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.15
+				text = ""
+			intervals [2]:
+				xmin = 1.15
+				xmax = 1.45
+				text = "天"
+			intervals [3]:
+				xmin = 1.45
+				xmax = 1.73
+				text = "札"
+			intervals [4]:
+				xmin = 1.73
+				xmax = 2.08
+				text = "剑"
+			intervals [5]:
+				xmin = 2.08
+				xmax = 2.51
+				text = ""
+			intervals [6]:
+				xmin = 2.51
+				xmax = 2.82
+				text = "算"
+			intervals [7]:
+				xmin = 2.82
+				xmax = 3.03
+				text = "厉"
+			intervals [8]:
+				xmin = 3.03
+				xmax = 3.24
+				text = "害"
+			intervals [9]:
+				xmin = 3.24
+				xmax = 3.42
+				text = "吗"
+			intervals [10]:
+				xmin = 3.42
+				xmax = 4.68
+				text = ""
